@@ -1,0 +1,166 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*! ../utils/descriptor-config */
+
+/*! ../utils/svg-tag-generator */
+
+/*! ./chart-shapes */
+
+/*! ./clr-icons-api */
+
+/*! ./clr-icons-element */
+
+/*! ./commerce-shapes */
+
+/*! ./core-shapes */
+
+/*! ./essential-shapes */
+
+/*! ./index */
+
+/*! ./media-shapes */
+
+/*! ./shapes/all-shapes */
+
+/*! ./shapes/core-shapes */
+
+/*! ./social-shapes */
+
+/*! ./technology-shapes */
+
+/*! ./text-edit-shapes */
+
+/*! ./travel-shapes */
+
+/*! ./utils/shape-template-observer */
+
+/*! no static exports found */
+
+/*!*************************************!*\
+      !*** ./projects/icons/src/index.ts ***!
+      \*************************************/
+
+/*!*********************************************!*\
+      !*** ./projects/icons/src/clr-icons-api.ts ***!
+      \*********************************************/
+
+/*!*********************************************!*\
+      !*** ./projects/icons/src/clr-icons-sfx.ts ***!
+      \*********************************************/
+
+/*!*************************************************!*\
+      !*** ./projects/icons/src/clr-icons-element.ts ***!
+      \*************************************************/
+
+/*!*************************************************!*\
+      !*** ./projects/icons/src/shapes/all-shapes.ts ***!
+      \*************************************************/
+
+/*!**************************************************!*\
+      !*** ./projects/icons/src/shapes/core-shapes.ts ***!
+      \**************************************************/
+
+/*!***************************************************!*\
+      !*** ./projects/icons/src/shapes/chart-shapes.ts ***!
+      \***************************************************/
+
+/*!***************************************************!*\
+      !*** ./projects/icons/src/shapes/media-shapes.ts ***!
+      \***************************************************/
+
+/*!****************************************************!*\
+      !*** ./projects/icons/src/shapes/social-shapes.ts ***!
+      \****************************************************/
+
+/*!****************************************************!*\
+      !*** ./projects/icons/src/shapes/travel-shapes.ts ***!
+      \****************************************************/
+
+/*!******************************************************!*\
+      !*** ./projects/icons/src/shapes/commerce-shapes.ts ***!
+      \******************************************************/
+
+/*!*******************************************************!*\
+        !*** ./projects/icons/src/utils/descriptor-config.ts ***!
+        \*******************************************************/
+
+/*!*******************************************************!*\
+        !*** ./projects/icons/src/utils/svg-tag-generator.ts ***!
+        \*******************************************************/
+
+/*!*******************************************************!*\
+      !*** ./projects/icons/src/shapes/essential-shapes.ts ***!
+      \*******************************************************/
+
+/*!*******************************************************!*\
+      !*** ./projects/icons/src/shapes/text-edit-shapes.ts ***!
+      \*******************************************************/
+
+/*!*******************************************************!*\
+      !*** ./projects/icons/src/utils/descriptor-config.ts ***!
+      \*******************************************************/
+
+/*!*******************************************************!*\
+      !*** ./projects/icons/src/utils/svg-tag-generator.ts ***!
+      \*******************************************************/
+
+/*!********************************************************!*\
+        !*** ./projects/icons/src/shapes/technology-shapes.ts ***!
+        \********************************************************/
+
+/*!********************************************************!*\
+      !*** ./projects/icons/src/shapes/technology-shapes.ts ***!
+      \********************************************************/
+
+/*!*************************************************************!*\
+      !*** ./projects/icons/src/utils/shape-template-observer.ts ***!
+      \*************************************************************/
+
+/** @license React v0.20.2
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.14.0
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
